@@ -5,7 +5,7 @@
   
  .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)60%,rgba(0,0,0,0.5)60%), url(http://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1gMtlWjp0tjaJDTAotnHMw/f14cbd55d1e88dcfa208613f57db8c7a/nd002_open_graph.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)60%,rgba(0,0,0,0.5)60%), url(https://images.pexels.com/photos/1634213/pexels-photo-1634213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-position: center;
     background-size: cover;
     height: 200vh;
